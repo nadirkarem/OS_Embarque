@@ -1,6 +1,3 @@
-# OS_Embarque
-
----
 marp: true
 theme: default
 class: lead
