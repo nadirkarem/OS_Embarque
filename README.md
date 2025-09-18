@@ -1,9 +1,3 @@
-marp: true
-theme: default
-class: lead
-paginate: true
----
-
 # Problème 1 – APP1
 ## OS embarqué sur smartphone ARM
 
